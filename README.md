@@ -6,3 +6,4 @@ Api desenvolvida usando o video  https://www.youtube.com/watch?v=MD7b-iQMC24&amp
 - go chi
 - posrtgresql
 - docker
+- viper
